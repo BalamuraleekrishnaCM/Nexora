@@ -1,0 +1,6 @@
+{
+  "name": "Nexora.AssetAuditor",
+  "includePlatforms": [
+    "Editor"
+  ]
+}

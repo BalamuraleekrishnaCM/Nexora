@@ -1,0 +1,13 @@
+{
+  "name": "Nexora.EditorTools.Tests",
+  "references": [
+    "Nexora.EditorTools"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nexora.XRDevices.Tests",
+  "references": [
+    "Nexora.XRDevices"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}
