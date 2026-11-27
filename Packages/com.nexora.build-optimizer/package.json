@@ -1,0 +1,17 @@
+{
+  "name": "com.nexora.build-optimizer",
+  "version": "0.1.0-preview.1",
+  "displayName": "Nexora Build Optimizer",
+  "description": "Initial Build Optimizer module. Preview; verification pending.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Nexora"
+  },
+  "samples": [
+    {
+      "displayName": "Getting started",
+      "description": "Usage example",
+      "path": "Samples~/GettingStarted"
+    }
+  ]
+}

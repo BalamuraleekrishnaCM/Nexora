@@ -1,0 +1,13 @@
+{
+  "name": "Nexora.BuildOptimizer.Tests",
+  "references": [
+    "Nexora.BuildOptimizer"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

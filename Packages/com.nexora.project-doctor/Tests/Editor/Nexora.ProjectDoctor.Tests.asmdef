@@ -1,0 +1,13 @@
+{
+  "name": "Nexora.ProjectDoctor.Tests",
+  "references": [
+    "Nexora.ProjectDoctor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

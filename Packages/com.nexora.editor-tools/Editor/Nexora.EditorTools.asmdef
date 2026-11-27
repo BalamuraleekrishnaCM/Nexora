@@ -1,0 +1,6 @@
+{
+  "name": "Nexora.EditorTools",
+  "includePlatforms": [
+    "Editor"
+  ]
+}

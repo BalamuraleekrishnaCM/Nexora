@@ -1,0 +1,11 @@
+name: Package metadata checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate package files
+        run: python3 scripts/validate_packages.py
